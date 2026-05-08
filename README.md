@@ -39,3 +39,42 @@ Ainya ||| Thank you
 If you use this dataset, please cite:
 
 Ameh, S. O. (2026). Owukpa (Idoma) - English Parallel Dataset v0.1 [Data set]. GitHub. https://github.com/amehsolomonowoicho-cell/Owukpa-parrellel
+---
+
+## 👨🏾‍💻 About Me - Available for Hire
+
+**I'm a native Owukpa speaker building AI infrastructure for low-resource African languages.**
+
+### 🔥 Core Skills
+**1. Language Data** 
+- Native Owukpa-English translator & annotator
+- First-ever Owukpa dataset creator: 200+ NLLB-ready pairs
+- Audio transcription: Fast, accurate, iPhone workflow
+
+**2. AI Operations & Scaling**
+- **Fiverr SEO Expert:** Rank gigs to page 1 in 5 days
+- Crowdsourcing: Recruit 50+ native speakers/week via Upwork/Fiverr
+- Prompt engineering & AI model training data QA
+
+**3. Technical Skills**
+- Technical writing: Documentation for NLP/data projects  
+- Graphic design: Dataset visuals, social content - Canva/CapCut
+- Web development: Shopify sites for data collection campaigns
+
+### 💼 Services for AI/NLP Teams
+**I help labs & companies build African language datasets faster:**
+
+| Service | Rate | Turnaround |
+| --- | --- | --- |
+| Owukpa Data Annotation | $20-$40/hr | 24-48hrs |
+| Crowdsource Scaling | $50/hr + bonuses | 50 speakers in 7 days |
+| Technical Documentation | $30-$60/hr | 2-3 days |
+| Fiverr Gig Setup/Ranking | $300/project | Page 1 in 5 days |
+| Shopify Data Collection Site | $500/project | 3-5 days |
+
+### 📞 Contact for Paid Pilots
+**DMs open on X: Amehsol56183434
+**Email: amehsolomon303060@gmail.com
+**Response time:** Under 12 hours  
+
+*P.S. I command AI. I don't beg it. Let's build.*
